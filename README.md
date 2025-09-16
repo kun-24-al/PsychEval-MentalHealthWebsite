@@ -1,5 +1,5 @@
 
-# Sukoon - A Website related to Mental Health Disorders
+# PsychEval - A Website related to Mental Health Disorders
 
 'PsychEval' is a full stack project on the theme of 'Mental Health ' built with the aim to act as a fully comprehensive website to raise awareness and provide resources regarding all sorts of issues related to the same.   
 
@@ -21,12 +21,6 @@ The foundation of this project is our unwavering belief that every individual de
 
 
 ## Run Locally
-
-Go to the project directory
-
-```bash
-  cd MentalHealthMERN
-```
 
 Split the terminal and go to the Backend/Frontend folder
 
